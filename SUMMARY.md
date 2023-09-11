@@ -6,7 +6,10 @@
 
 ## Introducción a PHP
 
-* [Introducción](introduccion-a-php/introduccion.md)
+* [Introducción](introduccion-a-php/page-1.md)
+* [Sintaxis](introduccion-a-php/sintaxis.md)
+* [Estructuras de datos básicas](introduccion-a-php/estructuras-de-datos-basicas.md)
+* [Estructuras de datos complejas](introduccion-a-php/estructuras-de-datos-complejas.md)
 
 ## Introducción a Javascript
 
@@ -23,9 +26,3 @@
 ## Administración de gestores de contenido
 
 * [Page 5](administracion-de-gestores-de-contenido/page-5.md)
-
-***
-
-* [Sintaxis](sintaxis.md)
-* [Estructuras de datos básicas](estructuras-de-datos-basicas.md)
-* [Estructuras de datos complejas](estructuras-de-datos-complejas.md)
