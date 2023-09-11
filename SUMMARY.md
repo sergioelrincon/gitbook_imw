@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Visual Studio Code](README.md)
-* [Git](<README (1).md>)
+* [Git](git.md)
 * [GitHub](github.md)
 
 ## Introducción a PHP
