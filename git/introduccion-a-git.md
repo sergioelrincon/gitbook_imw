@@ -2,18 +2,18 @@
 description: >-
   El software de control de versiones diseñado por Linus Torvalds más usado en
   la actualidad.
-cover: .gitbook/assets/Git_icon.svg.png
+cover: ../.gitbook/assets/Git_icon.svg.png
 coverY: 0
 ---
 
-# Git
+# Introducción a Git
 
 ## Recursos
 
 * [Web oficial](https://git-scm.com/)
 * [Referencia oficial](https://git-scm.com/docs)
 * [Libro oficial ](https://git-scm.com/book/es/v2)(en español)
-* [Cheat Sheet ](https://training.github.com/downloads/es\_ES/github-git-cheat-sheet/)
+* [Cheat Sheet](https://training.github.com/downloads/es\_ES/github-git-cheat-sheet/)
 
 ## Contenidos
 
@@ -44,10 +44,10 @@ coverY: 0
   * `--all`: visualiza todos los commits, incluyendo los commits futuros.
   * `--oneline`: muestra cada commit en una única línea.
 * Aliases \[ [ejemplo](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases) ]
-* `git checkout`&#x20;
-  * `<fichero>` \[ [referencia](https://git-scm.com/docs/git-checkout) ]  \
+* `git checkout`
+  * `<fichero>` \[ [referencia](https://git-scm.com/docs/git-checkout) ]\
     Deshace los últimos cambios del fichero indicado y lo deja en la versión del último commit.
-  * `<ID>` \
+  * `<ID>`\
     Nos permite movernos a un commit determinado.
 * Fichero ".gitignore" \[ [ejemplo](https://git-scm.com/book/en/v2/Git-Basics-Recording-Changes-to-the-Repository) ]
 
@@ -70,10 +70,3 @@ coverY: 0
 * git diff
 * git branch -d
 * Resolución de conflictos
-
-
-
-
-
-
-
