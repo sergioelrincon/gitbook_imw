@@ -1,11 +1,12 @@
 # Table of contents
 
-* [Git](README.md)
+* [Visual Studio Code](README.md)
+* [Git](<README (1).md>)
 * [GitHub](github.md)
 
 ## Introducción a PHP
 
-* [Page 1](introduccion-a-php/page-1.md)
+* [Introducción](introduccion-a-php/introduccion.md)
 
 ## Introducción a Javascript
 
@@ -22,3 +23,9 @@
 ## Administración de gestores de contenido
 
 * [Page 5](administracion-de-gestores-de-contenido/page-5.md)
+
+***
+
+* [Sintaxis](sintaxis.md)
+* [Estructuras de datos básicas](estructuras-de-datos-basicas.md)
+* [Estructuras de datos complejas](estructuras-de-datos-complejas.md)
