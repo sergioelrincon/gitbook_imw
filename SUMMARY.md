@@ -6,7 +6,7 @@
 
 ## Introducción a PHP
 
-* [Introducción](introduccion-a-php/page-1.md)
+* [Introducción](introduccion-a-php/introduccion.md)
 * [Sintaxis](introduccion-a-php/sintaxis.md)
 * [Estructuras de datos básicas](introduccion-a-php/estructuras-de-datos-basicas.md)
 * [Estructuras de datos complejas](introduccion-a-php/estructuras-de-datos-complejas.md)
