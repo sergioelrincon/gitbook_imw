@@ -6,8 +6,12 @@
 
 * [Introducción](introduccion-a-php/introduccion.md)
 * [Sintaxis](introduccion-a-php/sintaxis.md)
-* [Estructuras de datos básicas](introduccion-a-php/estructuras-de-datos-basicas.md)
+* [Operadores](introduccion-a-php/operadores.md)
+* [Estructuras de datos](introduccion-a-php/estructuras-de-datos.md)
+* [Estructuras de control](introduccion-a-php/estructuras-de-control.md)
+* [Funciones](introduccion-a-php/funciones.md)
 * [Estructuras de datos complejas](introduccion-a-php/estructuras-de-datos-complejas.md)
+* [Referencia](introduccion-a-php/referencia.md)
 
 ## Git
 
