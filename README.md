@@ -15,13 +15,13 @@ coverY: 0
 
 ## Requisitos previos
 
-Antes de _picar código_ PHP en VS, deberíamos tener instalado en nuestro equipo el intérprete de PHP, para poder probar desde el propio editor la ejecución del código cuando sea necesario.&#x20;
+Antes de _picar código_ PHP en VS, deberíamos tener instalado en nuestro equipo el intérprete de PHP, para poder probar desde el propio editor la ejecución del código cuando sea necesario.
 
 La instalación del intérprete de PHP la podemos realizar descargando y ejecutando el instalador de XAMPP, cuyo enlace puedes encontrar en el apartado [Introducción a PHP](introduccion-a-php/introduccion.md).
 
 ## Extensiones
 
-* [PHP Intellisense](https://marketplace.visualstudio.com/items?itemName=zobo.php-intellisense)
-* [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client)
-* [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php)
-
+* [PHP DevSense](https://www.devsense.com/es)
+* [PHP Intellisense](https://marketplace.visualstudio.com/items?itemName=zobo.php-intellisense) (No es necesaria, de momento)
+* [PHP Intelephense](https://marketplace.visualstudio.com/items?itemName=bmewburn.vscode-intelephense-client) (No es necesaria, de momento)
+* [Format HTML in PHP](https://marketplace.visualstudio.com/items?itemName=rifi2k.format-html-in-php) (No es necesaria, de momento)
