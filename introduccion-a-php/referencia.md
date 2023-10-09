@@ -8,3 +8,4 @@
 * [Funciones de manejo de arrays](https://www.php.net/manual/es/ref.array.php)
 * [phpinfo()](https://www.php.net/manual/es/function.phpinfo)
 * [gettype()](https://www.php.net/manual/es/function.gettype)
+* [die()](https://www.php.net/manual/es/function.die.php)
