@@ -12,3 +12,4 @@
 * [print\_r()](https://www.php.net/manual/es/function.print-r.php) - Muestra una variable de tipo array de forma estructurada
 * [ucfirst()](https://www.php.net/manual/es/function.ucfirst.php) - Convierte en mayúsculas el primer carácter de una cadena
 * [filter_var()](https://www.php.net/manual/en/function.filter-var.php) - Permite validar el contenido de una variable
+* [die()](https://www.php.net/manual/es/function.die.php)
