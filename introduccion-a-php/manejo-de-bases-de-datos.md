@@ -1,5 +1,9 @@
 # Manejo de bases de datos
 
+## Recursos
+
+* [Tipos de datos MySQL](https://desarrolloweb.com/articulos/1054.php)
+
 ## Contenidos
 
 * [Manejo de BBDD MySQL en PHP](https://www.w3schools.com/php/php\_mysql\_intro.asp)
