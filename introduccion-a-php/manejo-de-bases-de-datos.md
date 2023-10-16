@@ -2,7 +2,7 @@
 
 ## Recursos
 
-* [Tipos de datos MySQL](https://desarrolloweb.com/articulos/1054.php)
+* [Tipos de datos MySQL](https://www.w3schools.com/mysql/mysql\_datatypes.asp)
 
 ## Contenidos
 
