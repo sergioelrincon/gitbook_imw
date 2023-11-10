@@ -2,8 +2,11 @@
 
 ## Contenidos
 
-* [Instalación y configuración de Apache, PHP y MySQL en Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04)
-* Creación de base de datos, usuario y asignación de permisos en MYSQL\
+* [Instalación de Apache](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04#step-1-installing-apache-and-updating-the-firewall)
+* [Instalación de MySQL](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04#step-2-installing-mysql)
+* [Instalación de PHP ](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04#step-3-installing-php)
+* Creación de base de datos, usuario y asignación de permisos sobre dicha base de datos\
+  \
   `CREATE USER 'alumnado'@'localhost' IDENTIFIED BY 'Elrincon1234.';`\
   `FLUSH PRIVILEGES;` \
   `CREATE DATABASE alumnado_db;` \
