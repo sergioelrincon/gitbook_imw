@@ -21,13 +21,12 @@
 * [Introducción a Git](git/introduccion-a-git.md)
 * [Introducción a GitHub](git/introduccion-a-github.md)
 
-## Introducción a Javascript
-
-* [Introducción a Javascript](introduccion-a-javascript/page-2.md)
-
 ## Implantación y gestión de gestores de contenido
 
-* [Implantación de gestores de contenido](implantacion-y-gestion-de-gestores-de-contenido/page-3.md)
+* [Introducción](implantacion-y-gestion-de-gestores-de-contenido/page-3.md)
+* [Wordpress](implantacion-y-gestion-de-gestores-de-contenido/wordpress.md)
+* [Moodle](implantacion-y-gestion-de-gestores-de-contenido/moodle.md)
+* [Nextcloud](implantacion-y-gestion-de-gestores-de-contenido/nextcloud.md)
 
 ## Implantación y gestión de aplicaciones ofimáticas
 
