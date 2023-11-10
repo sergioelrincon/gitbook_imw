@@ -8,7 +8,6 @@
 * Creación de base de datos, usuario y asignación de permisos sobre dicha base de datos\
   \
   `CREATE USER 'alumnado'@'localhost' IDENTIFIED BY 'Elrincon1234.';`\
-  `FLUSH PRIVILEGES;` \
   `CREATE DATABASE alumnado_db;` \
   `GRANT ALL ON alumnado_db.* TO 'alumnado'@'localhost';`\
   `FLUSH PRIVILEGES;`\
