@@ -1,5 +1,9 @@
 # Introducción
 
+## Recursos
+
+* [Manejo de servicios en Ubuntu](https://conocimientolibre.mx/servicios-ubuntu/)
+
 ## Contenidos
 
 * [Instalación de Apache](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-20-04#step-1-installing-apache-and-updating-the-firewall)
