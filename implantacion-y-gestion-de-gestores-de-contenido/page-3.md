@@ -3,6 +3,7 @@
 ## Recursos
 
 * [Manejo de servicios en Ubuntu](https://conocimientolibre.mx/servicios-ubuntu/)
+* [How to solve PhpMyadmin Access Denied](https://skinnyboys.medium.com/how-to-probleme-solve-phpmyadmin-access-denied-2679685f5ef0)
 
 ## Contenidos
 
