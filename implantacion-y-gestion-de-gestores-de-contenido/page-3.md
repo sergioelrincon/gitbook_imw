@@ -19,5 +19,13 @@
   \
   La contraseña es "Elrincon1234."\
   "alumnado" es el nombre de usuario\
-  "alumnado\_db" es el nombre de la base de datos
+  "alumnado\_db" es el nombre de la base de datos\
+  \
+  En caso de que necesitemos modificar la contraseña de un usuario de MySQL, modemos utilizar la siguiente sentencia SQL:\
+  \
+  `ALTER USER 'userName'@'localhost' IDENTIFIED BY 'New-Password-Here';`\
+  `FLUSH PRIVILEGES;`
+
+
+
 * [Instalación de PHPmyAdmin](https://ubuntu.com/server/docs/how-to-install-and-configure-phpmyadmin)
