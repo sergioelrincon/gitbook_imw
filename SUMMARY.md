@@ -26,6 +26,7 @@
 * [Wordpress](implantacion-y-gestion-de-gestores-de-contenido/wordpress.md)
 * [Moodle](implantacion-y-gestion-de-gestores-de-contenido/moodle.md)
 * [Nextcloud](implantacion-y-gestion-de-gestores-de-contenido/nextcloud.md)
+* [Tipos de licencias](implantacion-y-gestion-de-gestores-de-contenido/tipos-de-licencias.md)
 
 ## Implantación y gestión de aplicaciones ofimáticas
 
