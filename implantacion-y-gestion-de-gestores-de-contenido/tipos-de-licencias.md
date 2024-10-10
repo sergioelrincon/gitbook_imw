@@ -98,3 +98,37 @@ Existen varios tipos de licencias de software libre, cada una con diferentes con
   * **Aplicaciones**: Usada en proyectos como **Nextcloud** y **MongoDB** (antes de cambiar a la SSPL).
 
 Estas licencias son las más comunes en el ecosistema del software libre y de código abierto, cada una con diferentes grados de libertad y requisitos para la distribución y modificación del software.
+
+## Copyleft
+
+**Copyleft** es un concepto relacionado con las licencias de software libre que garantiza que un software, y todas sus versiones modificadas o derivadas, permanezcan libres para que los usuarios lo utilicen, modifiquen y distribuyan bajo las mismas condiciones. En otras palabras, el copyleft asegura que las libertades otorgadas por la licencia original se mantengan en todas las versiones del software, incluso cuando alguien lo modifique o lo combine con otros proyectos.
+
+#### ¿Cómo funciona el copyleft?
+
+Cuando un software se licencia bajo una licencia **copyleft**, cualquier persona puede usar, modificar y redistribuir el software. Sin embargo, si esa persona redistribuye una versión modificada del software, está obligada a hacerlo bajo la misma licencia que la original. Esto significa que no pueden convertirlo en software propietario ni restringir las libertades que otorga la licencia original.
+
+#### Ejemplo sencillo:
+
+* Un desarrollador descarga un programa que está licenciado bajo la **GPL** (una licencia copyleft).
+* El desarrollador puede modificar el programa según sus necesidades.
+* Si el desarrollador distribuye su versión modificada (ya sea vendiéndola o compartiéndola gratuitamente), está **obligado** a proporcionar el código fuente de esa versión y licenciarlo bajo los mismos términos de la GPL. Esto garantiza que el software permanezca libre para futuros usuarios.
+
+#### Tipos de copyleft:
+
+* **Copyleft fuerte**: Obliga a que todas las modificaciones, derivados y extensiones del software se distribuyan bajo la misma licencia copyleft. Ejemplo: la **GPL** (General Public License). Esto también se aplica a cualquier programa que incorpore partes del software original.
+* **Copyleft débil**: Permite que el software se combine o utilice con software no libre o propietario, siempre que ciertas partes, como las bibliotecas originales, permanezcan libres. Ejemplo: la **LGPL** (Lesser General Public License) o la **MPL** (Mozilla Public License). Esto es común en bibliotecas que se quieren usar en programas propietarios.
+
+#### Diferencia entre copyleft y licencias permisivas:
+
+* Las licencias **permisivas** (como MIT o BSD) permiten que el software se utilice en cualquier tipo de proyecto, incluyendo software propietario, sin la obligación de liberar el código fuente de las modificaciones.
+* Las licencias **copyleft** requieren que cualquier trabajo derivado también se libere bajo la misma licencia, manteniendo así el software y sus versiones futuras libres.
+
+#### Objetivo del copyleft:
+
+El copyleft busca **proteger la libertad** de los usuarios asegurándose de que nadie pueda tomar el software, modificarlo, y luego hacer que las modificaciones sean propietarias o restringidas. Es una forma de garantizar que el software libre siga siendo libre, independientemente de quién lo modifique o cómo se distribuya.
+
+#### Ejemplos de licencias copyleft:
+
+* **GPL (General Public License)**: La licencia más famosa de copyleft fuerte.
+* **AGPL (Affero General Public License)**: Una versión de la GPL que extiende el copyleft al software usado en servidores (aplicaciones web).
+* **LGPL (Lesser General Public License)**: Un ejemplo de copyleft débil, común en bibliotecas que pueden ser usadas en software propietario.
