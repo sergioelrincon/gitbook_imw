@@ -97,6 +97,16 @@ Existen varios tipos de licencias de software libre, cada una con diferentes con
   * **Copyleft fuerte**: Obliga a que cualquier modificación hecha al software, incluso si solo se ofrece como servicio (SaaS), deba ser liberada bajo la misma licencia AGPL.
   * **Aplicaciones**: Usada en proyectos como **Nextcloud** y **MongoDB** (antes de cambiar a la SSPL).
 
+#### 9. Open Software License (OSL)
+
+* **Características principales**:
+  * **Tipo**: Licencia de **copyleft débil**.
+  * **Libertades**: Permite usar, modificar y redistribuir el software tanto en proyectos libres como propietarios.
+  * **Redistribución**: Las modificaciones deben redistribuirse bajo la misma licencia OSL, lo que garantiza que las mejoras permanezcan abiertas.
+  * **Protección de patentes**: Incluye disposiciones que protegen a los usuarios de demandas de patentes. Si alguien distribuye software bajo OSL y presenta demandas relacionadas con patentes, pierde los derechos sobre el software.
+  * **Aplicaciones web**: Si el software se utiliza en un servidor web, la OSL obliga a hacer público el código modificado, similar a la **AGPL**.
+  * **Obligaciones**: Las modificaciones del software deben mantenerse abiertas si se distribuyen o utilizan públicamente.
+
 Estas licencias son las más comunes en el ecosistema del software libre y de código abierto, cada una con diferentes grados de libertad y requisitos para la distribución y modificación del software.
 
 ## Copyleft
