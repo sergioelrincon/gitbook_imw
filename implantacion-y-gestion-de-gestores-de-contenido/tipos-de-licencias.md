@@ -32,7 +32,7 @@ En resumen, **software libre** implica que los usuarios tienen el control sobre 
 
 ## Tipos de licencias
 
-Existen varios tipos de licencias de software libre, cada una con diferentes condiciones para el uso, modificación y distribución del software. Aquí te explico las **licencias más comunes** que se utilizan en el software libre:
+Existen varios tipos de licencias de software libre, cada una con diferentes condiciones para el uso, modificación y distribución del software. Estas son las **licencias más comunes** que se utilizan en el software libre:
 
 #### 1. **GPL (General Public License)**
 
